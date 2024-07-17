@@ -37,7 +37,7 @@ GIPCCO | Jan 2023 – May 2023, Alexandria, Egypt
 
 ## :mag_right: Projects
 
-### Bingo Sales
+### Bingo Sales [here](https://github.com/AbdEl-RhmanMohamad/Bingo-Sales-Data-Analysis-Project)
 - Data Analysis & Visualization: Utilized Excel to analyze retail invoice data, creating pivot tables and performing calculations to draw insights.
 - Database & ETL Development: Designed a star schema model using SQL Server and developed an ETL pipeline with SSIS to populate a data warehouse.
 - Business Intelligence Reporting: Crafted a descriptive analysis dashboard in Power BI, focusing on aesthetic design and insightful data presentation.
