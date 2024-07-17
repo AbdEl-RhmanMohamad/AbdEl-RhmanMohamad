@@ -77,11 +77,6 @@ GIPCCO | Jan 2023 – May 2023, Alexandria, Egypt
 Excel, Microsoft SQL Server, SQL, Database, Data Warehouse, SSIS, SSRS, SSAS, Microsoft Fabric, Power BI, Tableau, Python, Data Analysis, Communication Skills, Problem-Solving
 
 
-## Languages
-- Arabic
-- English (TOEIC 805/990)
-
-
 ## Volunteering
 - Etijah, Childcare Shelters | Jun 2016 – May 2019, Assiut, Egypt
 - PR Team Leader, The Choice Event | Jan 2019 – Apr 2019, Assiut, Egypt
@@ -90,5 +85,5 @@ Excel, Microsoft SQL Server, SQL, Database, Data Warehouse, SSIS, SSRS, SSAS, Mi
 ## 📫Contact Me
 #### Email: [a.a.mohamad@hotmail.com](a.a.mohamad@hotmail.com)
 #### LinkedIn: [AbdEl-Rhman Ashraf Mohamad](https://www.linkedin.com/in/abdelrhmanmohamad/)
-#### Portfolio: [NovyPro Portfolio](https://www.novypro.com/profile_projects/abdel-rhmanashraf)
-#### Portfolio: [Kaggle Portfolio](https://www.kaggle.com/abdelrhmanashrafm)
+#### NovyPro: [NovyPro Portfolio](https://www.novypro.com/profile_projects/abdel-rhmanashraf)
+#### Kaggle: [Kaggle Portfolio](https://www.kaggle.com/abdelrhmanashrafm)
