@@ -42,7 +42,7 @@ GIPCCO | Jan 2023 – May 2023, Alexandria, Egypt
 - Database & ETL Development: Designed a star schema model using SQL Server and developed an ETL pipeline with SSIS to populate a data warehouse.
 - Business Intelligence Reporting: Crafted a descriptive analysis dashboard in Power BI, focusing on aesthetic design and insightful data presentation.
 
-### KPMG AU Data Analytics Job Simulation on Forage
+### KPMG AU Data Analytics Job Simulation on Forage [here](https://github.com/AbdEl-RhmanMohamad/KPMG-AU-Data-Analytics)
 - Assessed data quality and completeness in preparation for analysis using Power Query.
 - Analyzed data to target high-value customers based on demographics and attributes using Excel.
 - Developed dashboards to communicate findings with visuals using Power BI.
