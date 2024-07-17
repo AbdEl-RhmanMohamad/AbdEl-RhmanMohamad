@@ -47,7 +47,7 @@ GIPCCO | Jan 2023 – May 2023, Alexandria, Egypt
 - Analyzed data to target high-value customers based on demographics and attributes using Excel.
 - Developed dashboards to communicate findings with visuals using Power BI.
 
-### Data Analysis Project - AdventureWorks
+### Data Analysis Project - AdventureWorks [here](https://github.com/AbdEl-RhmanMohamad/Data-Analysis-Project-AdvantureWorks)
 - Analyzed sales performance using the Adventure Works dataset.
 - Used SQL to build a data warehouse and perform queries for data cleaning and exploration.
 - Used Power BI to analyze data and create a dashboard.
