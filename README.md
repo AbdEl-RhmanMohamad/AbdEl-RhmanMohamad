@@ -37,7 +37,7 @@ GIPCCO | Jan 2023 – May 2023, Alexandria, Egypt
 
 ## :mag_right: Projects
 
-### Super Store Tableau Project [here]()
+### Super Store Tableau Project [here](https://github.com/AbdEl-RhmanMohamad/Sales-Analysis-Using-Tableau)
 - This project involves creating various visualizations and reports using Tableau to analyze sales and profit data.
 - The tasks include generating detailed reports, forecasts, and interactive dashboards.
 
