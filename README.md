@@ -37,6 +37,10 @@ GIPCCO | Jan 2023 – May 2023, Alexandria, Egypt
 
 ## :mag_right: Projects
 
+### Super Store Tableau Project [here]()
+- This project involves creating various visualizations and reports using Tableau to analyze sales and profit data.
+- The tasks include generating detailed reports, forecasts, and interactive dashboards.
+
 ### Bingo Sales [here](https://github.com/AbdEl-RhmanMohamad/Bingo-Sales-Data-Analysis-Project)
 - Data Analysis & Visualization: Utilized Excel to analyze retail invoice data, creating pivot tables and performing calculations to draw insights.
 - Database & ETL Development: Designed a star schema model using SQL Server and developed an ETL pipeline with SSIS to populate a data warehouse.
