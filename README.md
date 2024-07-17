@@ -28,39 +28,36 @@ Information Technology Institute (ITI) | May 2024 – Present, Egypt
 - Designed ETL and data pipelines using SSIS.
 
 
-### In-Process Quality Assurance Specialist
-GIPCCO | Jan 2023 – May 2023, Alexandria, Egypt
-
-- Ensured the manufacturing process quality.
-- Inspected the process and performed integrity tests on products.
-
-
 ## :mag_right: Projects
 
-### Super Store Tableau Project [here](https://github.com/AbdEl-RhmanMohamad/Sales-Analysis-Using-Tableau)
-- This project involves creating various visualizations and reports using Tableau to analyze sales and profit data.
-- The tasks include generating detailed reports, forecasts, and interactive dashboards.
+### **Power BI**
 
-### Bingo Sales [here](https://github.com/AbdEl-RhmanMohamad/Bingo-Sales-Data-Analysis-Project)
+#### Bingo Sales [here](https://github.com/AbdEl-RhmanMohamad/Bingo-Sales-Data-Analysis-Project)
 - Data Analysis & Visualization: Utilized Excel to analyze retail invoice data, creating pivot tables and performing calculations to draw insights.
 - Database & ETL Development: Designed a star schema model using SQL Server and developed an ETL pipeline with SSIS to populate a data warehouse.
 - Business Intelligence Reporting: Crafted a descriptive analysis dashboard in Power BI, focusing on aesthetic design and insightful data presentation.
 
-### KPMG AU Data Analytics Job Simulation on Forage [here](https://github.com/AbdEl-RhmanMohamad/KPMG-AU-Data-Analytics)
+#### KPMG AU Data Analytics Job Simulation on Forage [here](https://github.com/AbdEl-RhmanMohamad/KPMG-AU-Data-Analytics)
 - Completed a simulation focused on advising a client on customer targeting with the Data, Analytics & Modelling team
 - Assessed data quality and completeness in preparation for analysis
 - Analysed data to target high-value customers based on demographics and attributes
 - Developed dashboards to communicate findings with visuals
 
-### Data Analysis Project - AdventureWorks [here](https://github.com/AbdEl-RhmanMohamad/Data-Analysis-Project-AdvantureWorks)
+#### Data Analysis Project - AdventureWorks [here](https://github.com/AbdEl-RhmanMohamad/Data-Analysis-Project-AdvantureWorks)
 - Analyzed sales performance using the Adventure Works dataset.
 - Used SQL to build a data warehouse and perform queries for data cleaning and exploration.
 - Used Power BI to analyze data and create a dashboard.
 
-### Cyclistic Bike-Share Case Study [here](https://github.com/AbdEl-RhmanMohamad/Cyclistic-Bike-Share-Case-Study)
+#### Cyclistic Bike-Share Case Study [here](https://github.com/AbdEl-RhmanMohamad/Cyclistic-Bike-Share-Case-Study)
 - Analyzed customer behavior for a bike-share company as part of the Google Data Analytics Course.
 - Applied descriptive statistics to answer business questions and provide recommendations.
 - Conducted data extraction, cleansing, and analysis using Python and Power BI to create a dashboard.
+
+### **Tableau**
+
+#### Super Store Tableau Project [here](https://github.com/AbdEl-RhmanMohamad/Sales-Analysis-Using-Tableau)
+- This project involves creating various visualizations and reports using Tableau to analyze sales and profit data.
+- The tasks include generating detailed reports, forecasts, and interactive dashboards.
 
 
 ## :scroll: Courses and Certificates
@@ -79,11 +76,6 @@ GIPCCO | Jan 2023 – May 2023, Alexandria, Egypt
 
 ## :hammer_and_wrench: Skills
 Excel, Microsoft SQL Server, SQL, Database, Data Warehouse, SSIS, SSRS, SSAS, Microsoft Fabric, Power BI, Tableau, Python, Data Analysis, Communication Skills, Problem-Solving
-
-
-## Volunteering
-- Etijah, Childcare Shelters | Jun 2016 – May 2019, Assiut, Egypt
-- PR Team Leader, The Choice Event | Jan 2019 – Apr 2019, Assiut, Egypt
 
 
 ## 📫Contact Me
