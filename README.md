@@ -61,25 +61,26 @@ Information Technology Institute (ITI) | May 2024 – Present, Egypt
 
 
 ## :scroll: Courses and Certificates
-- Microsoft Certified: Fabric Analytics Engineer Associate | Jun 2024 – Jun 2025
-- Microsoft Power BI Data Analyst Professional Certificate | Sep 2023 – Apr 2024
-- Google Data Analytics Professional Certificate | Jul 2022 – Aug 2023
-- Google Advanced Data Analytics Professional Certificate | May 2023 – Aug 2023
-- Data Analysis Professional Nanodegree Program | FWD Scholarship | Feb 2021 – Mar 2021
+- **Microsoft Certified: Fabric Analytics Engineer Associate** | Jun 2024 – Jun 2025
+- **Microsoft Power BI Data Analyst Professional Certificate** | Sep 2023 – Apr 2024
+- **Google Data Analytics Professional Certificate** | Jul 2022 – Aug 2023
+- **Google Advanced Data Analytics Professional Certificate** | May 2023 – Aug 2023
+- **Data Analysis Professional Nanodegree Program - FWD Scholarship** | Feb 2021 – Mar 2021
 
 
 ## :man_student: Education
-- High Education Initiative Scholarships, The USAID and AmidEast | Sep 2015 – Nov 2020, Egypt
-- Bachelor of Science: Chemistry, Assiut University | Sep 2015 – Feb 2020, Assiut, Egypt
-- Student Exchange Program, University of Nebraska -Lincoln | Jun 2018 – Aug 2018, Nebraska, USA
+- **High Education Initiative Scholarships, The USAID and AmidEast** | Sep 2015 – Nov 2020, Egypt
+- **Bachelor of Science: Chemistry, Assiut University** | Sep 2015 – Feb 2020, Assiut, Egypt
+- **Student Exchange Program, University of Nebraska -Lincoln** | Jun 2018 – Aug 2018, Nebraska, USA
 
 
 ## :hammer_and_wrench: Skills
-Excel, Microsoft SQL Server, SQL, Database, Data Warehouse, SSIS, SSRS, SSAS, Microsoft Fabric, Power BI, Tableau, Python, Data Analysis, Communication Skills, Problem-Solving
+- Excel, Microsoft SQL Server, SQL, Database, Data Warehouse, SSIS, SSRS, SSAS, Microsoft Fabric, Power BI, Tableau, Python, Data Analysis, Communication Skills, Problem-Solving
 
 
 ## 📫Contact Me
-#### Email: [a.a.mohamad@hotmail.com](a.a.mohamad@hotmail.com)
-#### LinkedIn: [AbdEl-Rhman Ashraf Mohamad](https://www.linkedin.com/in/abdelrhmanmohamad/)
-#### NovyPro: [NovyPro Portfolio](https://www.novypro.com/profile_projects/abdel-rhmanashraf)
-#### Kaggle: [Kaggle Portfolio](https://www.kaggle.com/abdelrhmanashrafm)
+- **Email**: [a.a.mohamad@hotmail.com](a.a.mohamad@hotmail.com)
+- **LinkedIn**: [AbdEl-Rhman Ashraf Mohamad](https://www.linkedin.com/in/abdelrhmanmohamad/)
+- **Phone**: 01210234321
+- **NovyPro**: [NovyPro Portfolio](https://www.novypro.com/profile_projects/abdel-rhmanashraf)
+- **Kaggle**: [Kaggle Portfolio](https://www.kaggle.com/abdelrhmanashrafm)
