@@ -52,7 +52,7 @@ GIPCCO | Jan 2023 – May 2023, Alexandria, Egypt
 - Used SQL to build a data warehouse and perform queries for data cleaning and exploration.
 - Used Power BI to analyze data and create a dashboard.
 
-### Cyclistic Bike-Share Case Study
+### Cyclistic Bike-Share Case Study [here](https://github.com/AbdEl-RhmanMohamad/Cyclistic-Bike-Share-Case-Study)
 - Analyzed customer behavior for a bike-share company as part of the Google Data Analytics Course.
 - Applied descriptive statistics to answer business questions and provide recommendations.
 - Conducted data extraction, cleansing, and analysis using Python and Power BI to create a dashboard.
