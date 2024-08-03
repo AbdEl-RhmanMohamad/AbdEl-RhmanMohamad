@@ -32,10 +32,22 @@ Information Technology Institute (ITI) | May 2024 – Present, Egypt
 
 ### **Power BI**
 
+#### AdventureWorks-OLTP Sales Overview [here](https://github.com/AbdEl-RhmanMohamad/Adventure-Works-OLTP-Sales-Overview)
+
+This Power BI project demonstrates the comprehensive process of extracting, modeling, and analyzing sales data from the Adventure Works database. Key points include:
+
+1. **Data Source**: Utilized the Adventure Works OLTP database with Direct Query.
+2. **Data Extraction**: Retrieved data from essential tables, views and function.
+3. **Date Table Creation**: Implemented an M language script to generate a comprehensive date dimension table for enhanced time-based analysis.
+4. **Data Transformation**: Cleaned and prepared the dataset by renaming tables and columns and removing unused data.
+5. **Data Modeling**: Structured data into a star schema for efficient querying and analysis.
+6. **Measures**: Created a set of critical measures for analysis, including the use of USERELATIONSHIP function to manage Inactive Relationships in a Role-Playing Dimension.
+7. **Visualization**: Developed insightful dashboards to highlight trends, sales performance, and key business metrics.
+
 #### Bingo Sales [here](https://github.com/AbdEl-RhmanMohamad/Bingo-Sales-Data-Analysis-Project)
-- Data Analysis & Visualization: Utilized Excel to analyze retail invoice data, creating pivot tables and performing calculations to draw insights.
-- Database & ETL Development: Designed a star schema model using SQL Server and developed an ETL pipeline with SSIS to populate a data warehouse.
-- Business Intelligence Reporting: Crafted a descriptive analysis dashboard in Power BI, focusing on aesthetic design and insightful data presentation.
+- **Data Analysis & Visualization**: Utilized Excel to analyze retail invoice data, creating pivot tables and performing calculations to draw insights.
+- **Database & ETL Development**: Designed a star schema model using SQL Server and developed an ETL pipeline with SSIS to populate a data warehouse.
+- **Business Intelligence Reporting**: Crafted a descriptive analysis dashboard in Power BI, focusing on aesthetic design and insightful data presentation.
 
 #### KPMG AU Data Analytics Job Simulation on Forage [here](https://github.com/AbdEl-RhmanMohamad/KPMG-AU-Data-Analytics)
 - Completed a simulation focused on advising a client on customer targeting with the Data, Analytics & Modelling team
