@@ -1,4 +1,4 @@
-## Hi there 👋 I'M AbdEl-Rhman Ashraf Mohamad - Junior  Business Intelligence Analyst
+## Hi there 👋 I'M AbdEl-Rhman Ashraf Mohamad - Junior  Business Intelligence Developer
 
 <!--
 **AbdEl-RhmanMohamad/AbdEl-RhmanMohamad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
